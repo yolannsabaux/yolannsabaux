@@ -2,9 +2,9 @@
 
 I'm a junior AI Developper, currently @[BeCode](https://becode.org/).
 
-- 👯 I’m looking to collaborate for a traineeship starting from November.
+- 👯 I’m looking for a traineeship starting from November 2021.
 - 🌱 I’m currently studying Deep Leaning @ [BeCode.org](https://becode.org).
-- 🌎 I can't wait tr travel again.
+- 🌎 
 
 ## Skills
 
